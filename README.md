@@ -1,6 +1,6 @@
-# 🛡️ AWS & Nagios SOC Monitoring Lab
+# AWS & Nagios SOC Monitoring Lab
 
-### 🇧🇷 Versão em Português
+### Versão em Português
 **Resumo do Projeto:**
 Implementação de uma infraestrutura de monitoramento de segurança e disponibilidade na nuvem AWS. O objetivo foi simular um ambiente de operações (SOC) para monitorar ativos críticos (Linux e Windows) utilizando Nagios Core.
 
@@ -14,7 +14,7 @@ Implementação de uma infraestrutura de monitoramento de segurança e disponibi
 
 ---
 
-### 🇺🇸 English Version
+### English Version
 **Project Summary:**
 Deployment of a security and availability monitoring infrastructure on AWS cloud. The goal was to simulate a Security Operations Center (SOC) environment to monitor critical assets (Linux and Windows) using Nagios Core.
 
@@ -27,4 +27,4 @@ Deployment of a security and availability monitoring infrastructure on AWS cloud
 **Tech Stack:** AWS EC2, Nagios Core 4.5, Ubuntu Server, NRPE, NSClient++, Bash Scripting.
 
 ---
-📂 **Check the configuration files above (`.cfg`) to see the security implementation details.**
+**Check the configuration files above (`.cfg`) to see the security implementation details.**
